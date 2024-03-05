@@ -1,0 +1,4 @@
+name: PlayerSearcher
+version: '${version}'
+main: com.github.sigureruri.playersearcher.PlayerSearcher
+api-version: '1.20'
